@@ -214,7 +214,7 @@
 
             @font-face {
                 font-family: "Share Tech Mono";
-                src: url("./ShareTechMono-Regular.ttf") format("truetype");
+                src: url("https://raw.githubusercontent.com/kleo/pipboy-3000-boot/master/svg/fonts/ShareTechMono-Regular.ttf") format("truetype");
                 }
                 
                 font-family: 'Share Tech Mono';
